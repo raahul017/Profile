@@ -18,8 +18,6 @@
 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajashekar-582&layout=compact)](https://github.com/Rajashekar-582/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajashekar-582)](https://github.com/Rajashekar-582/github-readme-stats)
 
 
 <!---<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ra&theme=tokyonight" alt="alexxkzz" /></p>
